@@ -1,0 +1,9 @@
+# Dataset gebaseerd op TNO & RIVM rapporten (2017-2025)
+# Jongere generaties halen meer productiviteitswinst uit technologie en AI,
+# maar ervaren ook een hogere werkdruk (TNO & RIVM, 2025; TNO, 2024; Bonte, 2022).
+# Bronnen: TNO & RIVM (2025), RIVM & TNO (2024), TNO (2024), Bonte (2022), TNO & UWV (2017)
+Generatie,Productiviteitswinst_door_technologie_%,Toegenomen_werkdruk_%,Gebruik_AI_tools_%
+Gen Z (15-24),35,42,28
+Millennials (25-39),30,38,22
+Gen X (40-54),20,25,15
+Babyboomers (55-64),12,15,8
